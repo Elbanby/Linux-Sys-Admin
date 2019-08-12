@@ -6,3 +6,8 @@ I usually study the materials for the exams but not really persue them. So don't
 Also if you are just starting with linux check out https://github.com/Elbanby/Linux_Essentials. 
 
 
+// Find out the shells available 
+`cat /etc/shells`
+
+// changing your shell 
+`chsh --shell /bin/sh <username run whoami to find>`
