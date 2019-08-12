@@ -10,4 +10,5 @@ Also if you are just starting with linux check out https://github.com/Elbanby/Li
 `cat /etc/shells`
 
 // changing your shell 
-`chsh --shell /bin/sh <username run whoami to find>`
+// -s for shell
+`chsh -s /bin/sh <username run whoami to find>`
